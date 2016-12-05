@@ -3,7 +3,9 @@ This is personal repository to practice `Object Oriented PHP` concept. Resources
 
 This is simple application includes login/register and post/list/delete features.
 
-I used `Object Oriented PHP` concept and MVC pattern to build it.
+I used `Object Oriented PHP` concept and `MVC pattern` to build it.
+
+![MVC Pattern](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/03/MVC-Process.png)
 
 Routing is done by without using any existing frameworks. 
 
@@ -18,8 +20,17 @@ users = controller
 login = action
 ```
 
-# MVC Pattern
-![MVC Pattern](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/03/MVC-Process.png)
 
+# How to run
+You need to install xampp/wamp or ampps to run this on your local server.
 
+Once you install it, go to admin homepage, add domain.
+
+Download or clone this repository under your domain name folder. 
+
+The domain name folder should be under your `ampps installed path/www/`
+
+ex> C:\Program Files\Ampps\www\mydomain
+
+Now you can open your domain on browser.
 
