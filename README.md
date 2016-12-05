@@ -1,2 +1,5 @@
-# Objective Oriented Programing in PHP
-This is personal repository to practice OOP in PHP. Resources are referenced from [Udemy: Learn Object Oriented PHP](https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website/)
+# Objective Oriented PHP
+This is personal repository to practice `Object Oriented PHP` concept. Resources are referenced from free online tutorial [Eduonix: Learn Object Oriented PHP](https://www.eduonix.com/courses/Web-Development/learn-object-oriented-php-by-building-a-complete-website)
+
+
+# MVC Pattern
