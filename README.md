@@ -7,6 +7,17 @@ I used `Object Oriented PHP` concept and MVC pattern to build it.
 
 Routing is done by without using any existing frameworks. 
 
+[Bootstrap of routing](https://github.com/reoim/Object-Oriented-PHP/blob/master/classes/Bootstrap.php)
+
+ex>
+```
+http://mydomain.com/users/login
+
+users = controller
+
+login = action
+```
+
 # MVC Pattern
 ![MVC Pattern](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/03/MVC-Process.png)
 
