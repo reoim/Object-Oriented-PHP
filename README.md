@@ -32,5 +32,13 @@ The domain name folder should be under your `ampps installed path/www/`
 
 ex> C:\Program Files\Ampps\www\mydomain
 
+You also need to change following root path and root url code in configure.php file to your domain.
+
+```php
+// Define URL
+define("ROOT_PATH", "/php.dev/");
+define("ROOT_URL", "http://localhost/php.dev/");
+```
+
 Now you can open your domain on browser.
 
